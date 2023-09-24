@@ -5,6 +5,6 @@
 - 📫 How to reach me? Arif Mulani
 
 # My Codeforces Profile (arif049)
-![Latest Problems Graph](../Codeforces_Tracker/Latest_Info/solved_problems_graph.png)
-![Latest Rating Graph](../Codeforces_Tracker/Latest_Info/contest_rating_graph.png)
+![Latest Problems Graph](https://github.com/CoderInTheNorth-049/Codeforces_Tracker/blob/main/Latest_Info/contest_rating_graph.png)
+![Latest Rating Graph](https://github.com/CoderInTheNorth-049/Codeforces_Tracker/blob/main/Latest_Info/solved_problems_graph.png)
 
